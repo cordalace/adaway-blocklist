@@ -2,84 +2,84 @@
 # License: https://raw.githubusercontent.com/cordalace/adaway-blocklist/main/LICENSE
 
 # 24СМИ, Category: Misc, https://whotracks.me/trackers/24smi.html
-jsn.24smi.net
+127.0.0.1 jsn.24smi.net
 
 # Acceptable Ads Exchange, Category: Advertising, https://whotracks.me/trackers/aaxads.com.html
-c.aaxads.com
+127.0.0.1 c.aaxads.com
 
 # Adjust, https://www.adjust.com/
-app.adjust.world
+127.0.0.1 app.adjust.world
 
 # AdLabs, Category: Advertising, https://whotracks.me/trackers/adlabs.html
-iclickcdn.com
-clickiocdn.com
+127.0.0.1 iclickcdn.com
+127.0.0.1 clickiocdn.com
 
 # Amazon.com, Category: Misc, https://whotracks.me/trackers/amazon.html
-device-messaging-na.amazon.com
+127.0.0.1 device-messaging-na.amazon.com
 
 # Brave browser analytics
-analytics.brave.com
+127.0.0.1 analytics.brave.com
 
 # DoubleClick, Category: Advertising, https://whotracks.me/trackers/doubleclick.html
-secureads.g.doubleclick.net
+127.0.0.1 secureads.g.doubleclick.net
 
 # Facebook Social Graph, https://whotracks.me/trackers/facebook_graph.html
-graph.facebook.com
+127.0.0.1 graph.facebook.com
 
 # Fastly, Category: Cdn, https://whotracks.me/trackers/fastlylb.net.html
-clarium.global.ssl.fastly.net
+127.0.0.1 clarium.global.ssl.fastly.net
 
 # Google APIs, Category: Cdn, https://whotracks.me/trackers/googleapis.com.html
-crashlyticsreports-pa.googleapis.com
+127.0.0.1 crashlyticsreports-pa.googleapis.com
 
 # lentainform.com, Category: Misc, https://whotracks.me/trackers/lentainform.com.html
-jsc.lentainform.com
-autocounter.lentainform.com
+127.0.0.1 jsc.lentainform.com
+127.0.0.1 autocounter.lentainform.com
 
 # Mail.Ru Group, Category: Social Media, https://whotracks.me/trackers/mail.ru_group.html
-top-fwz1.mail.ru
-mediator.mail.ru
+127.0.0.1 top-fwz1.mail.ru
+127.0.0.1 mediator.mail.ru
 
 # Mediascope, Category: Site Analytics, https://whotracks.me/trackers/mediascope.html
-www.tns-counter.ru
+127.0.0.1 www.tns-counter.ru
 
 # Microsoft App Center, Category: Essential
-in.appcenter.ms
+127.0.0.1 in.appcenter.ms
 
 # Pushwoosh, Category: Customer Interaction, https://whotracks.me/trackers/pushwoosh.com.html
-47460-006d3.api.pushwoosh.com
+127.0.0.1 47460-006d3.api.pushwoosh.com
 
 # Rambler, Category: Site Analytics, https://whotracks.me/trackers/rambler.html
-st.top100.ru
+127.0.0.1 st.top100.ru
 
 # SiteScout by Centro, Category: Advertising, https://whotracks.me/trackers/sitescout.html
-pixel-sync.sitescout.com
+127.0.0.1 pixel-sync.sitescout.com
 
 # smi2.ru, Category: Site Analytics, https://whotracks.me/trackers/smi2.ru.html
-stat.media
-target.smi2.ru
+127.0.0.1 stat.media
+127.0.0.1 target.smi2.ru
 
 # Sputnik, Category: Site Analytics, https://whotracks.me/trackers/sputnik.html
-stat.sputnik.ru
+127.0.0.1 stat.sputnik.ru
 
 # Symantec, https://confection.io/trackers/j-6sc-co/
-j.6sc.co
+127.0.0.1 j.6sc.co
 
 # WhatsApp
-privatestats.whatsapp.net
+127.0.0.1 privatestats.whatsapp.net
 
 # Yandex, Category: Advertising, https://whotracks.me/trackers/yandex.html
-rosenberg.appmetrica.yandex.net
+127.0.0.1 rosenberg.appmetrica.yandex.net
 
 # ???
-rb.infox.sg
+127.0.0.1 rb.infox.sg
 
 # ???
-cdn.otnolatrnup.com
-otnolatrnup.com
+127.0.0.1 cdn.otnolatrnup.com
+127.0.0.1 otnolatrnup.com
 
 # adguard-malware-shavar, Blocked Threats, ???
-www.spotify.link
+127.0.0.1 www.spotify.link
 
 # ???
-news.mirtesen.ru
+127.0.0.1 news.mirtesen.ru
