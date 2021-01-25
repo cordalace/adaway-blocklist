@@ -1,3 +1,5 @@
+# Cordalace's blocklist for AdAway https://adaway.org/
+
 # 24СМИ, Category: Misc, https://whotracks.me/trackers/24smi.html
 jsn.24smi.net
 
