@@ -1,0 +1,2 @@
+# adaway-blocklist
+AdAway blocklist
