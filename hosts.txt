@@ -29,6 +29,9 @@
 # Fastly, Category: Cdn, https://whotracks.me/trackers/fastlylb.net.html
 127.0.0.1 clarium.global.ssl.fastly.net
 
+# Genius
+127.0.0.1 librato-collector.genius.com
+
 # Google APIs, Category: Cdn, https://whotracks.me/trackers/googleapis.com.html
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 
@@ -51,6 +54,9 @@
 
 # Rambler, Category: Site Analytics, https://whotracks.me/trackers/rambler.html
 127.0.0.1 st.top100.ru
+
+# Sentry, Category: Site Analytics, https://whotracks.me/trackers/sentry.html
+127.0.0.1 browser.sentry-cdn.com
 
 # SiteScout by Centro, Category: Advertising, https://whotracks.me/trackers/sitescout.html
 127.0.0.1 pixel-sync.sitescout.com
