@@ -49,11 +49,18 @@
 # Microsoft App Center, Category: Essential
 127.0.0.1 in.appcenter.ms
 
+# Power BI Informational messages, https://docs.microsoft.com/en-us/power-bi/admin/power-bi-whitelist-urls
+127.0.0.1 dynmsg.modpim.com
+
 # Pushwoosh, Category: Customer Interaction, https://whotracks.me/trackers/pushwoosh.com.html
 127.0.0.1 47460-006d3.api.pushwoosh.com
 
 # Rambler, Category: Site Analytics, https://whotracks.me/trackers/rambler.html
 127.0.0.1 st.top100.ru
+
+# Reddit, Category: Social Media, https://whotracks.me/trackers/reddit.html
+127.0.0.1 stats.redditmedia.com
+127.0.0.1 alb.reddit.com
 
 # Sentry, Category: Site Analytics, https://whotracks.me/trackers/sentry.html
 127.0.0.1 browser.sentry-cdn.com
