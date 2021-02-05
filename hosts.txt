@@ -38,6 +38,9 @@
 # Google APIs, Category: Cdn, https://whotracks.me/trackers/googleapis.com.html
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 
+# Huawei
+127.0.0.1 grs.dbankcloud.com
+
 # lentainform.com, Category: Misc, https://whotracks.me/trackers/lentainform.com.html
 127.0.0.1 jsc.lentainform.com
 127.0.0.1 autocounter.lentainform.com
