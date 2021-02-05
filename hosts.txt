@@ -20,6 +20,9 @@
 # Brave browser analytics
 127.0.0.1 analytics.brave.com
 
+# CDNvideo
+127.0.0.1 rumstat.cdnvideo.ru
+
 # DoubleClick, Category: Advertising, https://whotracks.me/trackers/doubleclick.html
 127.0.0.1 secureads.g.doubleclick.net
 
@@ -78,10 +81,17 @@
 # Symantec, https://confection.io/trackers/j-6sc-co/
 127.0.0.1 j.6sc.co
 
+# Teleport Media
+127.0.0.1 stat.teleport.media
+
+# Tilda
+127.0.0.1 stat.tildacdn.com
+
 # WhatsApp
 127.0.0.1 privatestats.whatsapp.net
 
 # Yandex, Category: Advertising, https://whotracks.me/trackers/yandex.html
+127.0.0.1 awsync.yandex.ru
 127.0.0.1 rosenberg.appmetrica.yandex.net
 
 # ???
