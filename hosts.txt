@@ -90,6 +90,9 @@
 # Tilda
 127.0.0.1 stat.tildacdn.com
 
+# TrafficJunky
+127.0.0.1 static.trafficjunky.com
+
 # WhatsApp
 127.0.0.1 privatestats.whatsapp.net
 
@@ -103,6 +106,9 @@
 # ???
 127.0.0.1 cdn.otnolatrnup.com
 127.0.0.1 otnolatrnup.com
+
+# ???
+127.0.0.1 statad.ru
 
 # adguard-malware-shavar, Blocked Threats, ???
 127.0.0.1 www.spotify.link
