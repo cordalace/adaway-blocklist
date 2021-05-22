@@ -37,9 +37,13 @@
 
 # Google APIs, Category: Cdn, https://whotracks.me/trackers/googleapis.com.html
 127.0.0.1 crashlyticsreports-pa.googleapis.com
+127.0.0.1 firebaselogging-pa.googleapis.com
 
 # Huawei
 127.0.0.1 grs.dbankcloud.com
+
+# Insider, Category: Site Analytics, https://whotracks.me/trackers/insider.html
+ikearu.api.useinsider.com
 
 # lentainform.com, Category: Misc, https://whotracks.me/trackers/lentainform.com.html
 127.0.0.1 jsc.lentainform.com
@@ -96,6 +100,9 @@
 # WhatsApp
 127.0.0.1 privatestats.whatsapp.net
 
+# Vk
+127.0.0.1 stats.vk-portal.net
+
 # Yandex, Category: Advertising, https://whotracks.me/trackers/yandex.html
 127.0.0.1 awsync.yandex.ru
 127.0.0.1 rosenberg.appmetrica.yandex.net
@@ -109,6 +116,9 @@
 
 # ???
 127.0.0.1 statad.ru
+
+# ???
+127.0.0.1 code.acstat.com
 
 # adguard-malware-shavar, Blocked Threats, ???
 127.0.0.1 www.spotify.link
