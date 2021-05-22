@@ -43,7 +43,7 @@
 127.0.0.1 grs.dbankcloud.com
 
 # Insider, Category: Site Analytics, https://whotracks.me/trackers/insider.html
-ikearu.api.useinsider.com
+127.0.0.1 ikearu.api.useinsider.com
 
 # lentainform.com, Category: Misc, https://whotracks.me/trackers/lentainform.com.html
 127.0.0.1 jsc.lentainform.com
